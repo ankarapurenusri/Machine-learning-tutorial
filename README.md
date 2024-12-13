@@ -3,13 +3,14 @@ DECISION TREE LEARNING
 A Decision Tree is a supervised Machine learning algorithm used for classification and regression tasks. It works by splitting the dataset into branches based on feature values, forming a tree-like structure. Each internal node represents a decision based on a feature, branches represent the outcome of that decision, and leaf nodes represent the final prediction or output.
 
 
-Applications
+ Applications
+
 ●	Fraud Detection: By identifying patterns in labeled data, decision trees assist in detecting fraudulent transactions.
 ●	Customer segmentation: They help with focused marketing campaigns by grouping clients according to their purchasing patterns.
 ●	Predictive maintenance uses past data to forecast when equipment will break down.
 ●	Healthcare: Diagnosing diseases based on patient symptoms.
 
-2. Core Concepts
+Core Concepts
 Entropy
 Entropy quantifies the degree of uncertainty or impurity in a dataset. It is employed to assess the split quality at every Decision Tree node. A purer dataset and less unpredictability are indicated by lower entropy.
  
